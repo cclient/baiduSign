@@ -1,0 +1,80 @@
+#General
+Remote Address:119.75.219.76:443
+Request URL:https://passport.baidu.com/v2/api/?login
+Request Method:POST
+Status Code:200 OK
+
+#Response Header
+
+Cache-Control:public
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html
+Date:Wed, 16 Sep 2015 03:23:31 GMT
+ETag:w/"qZFjVViNEnlJBn7cZQdCYscuSy6WE7Fi:1442373811"
+Expires:0
+Last-Modified:Wed, 16 Sep 2015 03:23:31 3SepGMT
+P3P:CP=" OTI DSP COR IVA OUR IND COM "
+Pragma:public
+Server:
+    Set-Cookie:USERNAMETYPE=1; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:PTOKEN=deleted; expires=Tue, 16-Sep-2014 03:23:30 GMT; path=/; domain=baidu.com; httponly
+    Set-Cookie:PTOKEN=ecc002f358bc95257477881557c73369; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:STOKEN=c4f5279bc9a6426c407fe8fc1997191bd1986553adc42a6d29260c27857db8bd; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:SAVEUSERID=23a8f5467391f3e2403b7a62fc; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:HISTORY=fc46e6a84f36843d454d7c34dfd74259d0cd95c0b4c1b476c8d26a2a8d2ac03f15635644be62c4b519eb5d964dfa5a179b096a341604dff3d1e062f22d0a312cca833c; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com
+    Set-Cookie:UBI=fi_PncwhpxZ%7ETaVAL8uZbaY9cLtoKes6bOB8SqNs49Rnd03KBNl%7EeEvCyrOnBVRYxxYPKExJf%7EdlG35xyCIGeT5ymJ04Q7vLGfUL0OV2Cfg3tYRjETxdF3SP5WZaY3FkMCyZDADSNURO4tG3yBKyKlZFOdXmuu5JldfmC74L46B5AeMgcW76NB2etH2yOEysP9FUvW4iMsnjMDWVLK3rM-DMvHFXk8S-P1zAPqXpXDzooaVj4arRVqIEH8-kKx8y3L8ocs%7Ec2DBkgekqx%7EKZfrnbkOvV7SPekr7MAU3i89K7hQ_; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:PASSID=UHDD2i; expires=Tue, 16-Sep-2014 03:23:31 GMT; path=/; domain=passport.baidu.com; httponly
+    Set-Cookie:BDUSS=EJFQzFIOTZmamJ5S0o3b25TaGphcDNJN3FvamFhSm5CQWFoSmEyRlNibXpiU0JXQVFBQUFBJCQAAAAAAAAAAAEAAABH4uUFt-fS9Mf6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALPg-FWz4PhVR; expires=Sun, 03-Dec-2023 03:23:31 GMT; path=/; domain=baidu.com; httponly
+Transfer-Encoding:chunked
+Vary:Accept-Encoding
+
+#Request Header
+
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.8,en;q=0.6
+Cache-Control:no-cache
+Connection:keep-alive
+Content-Length:738
+Content-Type:application/x-www-form-urlencoded
+Cookie:Hm_lvt_90056b3f84f90da57dc0f40150f005d5=1431244653,1431244656,1432550211,1432550213; BAIDUID=661B0D150A40333619444C8834385391:FG=1; PSTM=1442328451; BIDUPSID=8C0D1C2056FFD76A5E76CA8178F4C31B; HISTORY=fc46e6a84f36843d454d7c34dfd74259d0cd95c0b4c1b476c8d26a2a8d2ac03f15635644be62c4b519eb5d964dfa5a179b096a341604dff3d1e062f22d0a312cca833c; SAVEUSERID=23a8f5467391f3e2403b7a62fc; USERNAMETYPE=1; UBI=fi_PncwhpxZ%7ETaUILnES4pVNXoykjN-Es4LU7oWUJITmf-gS9Ba7VW9fcafYbeNxmS2NNy2OKexpX5MQpXhL4EpHnx1Crhqh1g97nTAQz9OP6GnCg6yPyc3M1UlgEpST2zmZwh5WdoiNdV16jYiFVDYaX3FrkUjoU8dlfaY0j3LUD1XQ-9jJNpGXvr%7EHYN9Tgn1NVkh0b%7EBzcInV01wVW65UiU1kpTIyMbjvt-sZSarqdbRCGTVarYRHF%7E-Xv50JeZp1tKa6mTOaJVb9jk8svW%7EGD2Rw6MF0Af0gtULRUfGtU8_; H_PS_PSSID=16127_16716_1454_17231_16738_12772_17292_14432_12867_16938_17295_17000_17004_17073_15959_11887_13932_17050; HOSUPPORT=1
+Host:passport.baidu.com
+Origin:https://www.baidu.com
+Pragma:no-cache
+Referer:https://www.baidu.com/
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#Query String Parameters
+ login:
+
+#Form Data
+
+ staticpage:https://www.baidu.com/cache/user/html/v3Jump.html
+ charset:UTF-8
+ token:f591f7113054b81dd6dd93ac1daa5cfb
+ tpl:mn
+ subpro:
+ apiver:v3
+ tt:1442373811650
+ codestring:
+ safeflg:0
+ u:https://www.baidu.com/
+ isPhone:false
+ detect:1
+ gid:AAB4A6C-E209-404E-9817-DCCA22C43B9B
+ quick_user:0
+ logintype:dialogLogin
+ logLoginType:pc_loginDialog
+ idc:
+ loginmerge:true
+ splogin:rate
+ username:"!!!!!!!!@@@@@@@@@@!!!!!!!!!"
+ password:cwrRmUraQ7gqmjV7VruD6sF9Tc8xUua5vPyq14DkWuSuKsVzAPZ4dcuVFe2FMv3kYMP3as5yyeIeoeBGYBhbcuq/rfQTLydyGPRFEjKyjvqLwsK1Mz0fSvzUEzcFtoL7P4vVl6dDhnYCamq9cjPnju7RGu1ftFSTAiLThRY30eA=
+ verifycode:
+ mem_pass:on
+ rsakey:12ZBOcrpumNnfEZ40k1d6jB1JGg2uwjc
+ crypttype:12
+ ppui_logintime:23332
+ callback:parent.bd__pcbs__qek4px
