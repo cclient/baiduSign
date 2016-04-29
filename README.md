@@ -15,5 +15,7 @@
 现在更简单的登录方式，没有token,pubkey,加密pwd的步骤，直接传账号密码便可登录
 路径为http://wappass.baidu.com/wp/login?uname_login=1
 
-核心代码几本废了，不过因为是练习项目，倒无所谓。
+原本计划，开发一个android端的百度签到app。
+
+发现核心代码基本无用，android 停止开发，半成品在client里。
 
